@@ -1,3 +1,8 @@
 # Tutorial-Hello-world
-The tutorial
-doing the tutorial 
+#include <iostream.
+using namespace std;
+int main()      {
+cont<<"hello everybody";cin.git();
+return 1;     }
+
+
